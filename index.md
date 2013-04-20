@@ -1,7 +1,7 @@
 ---
 layout: revealjs
-title: "HydeSlides with RevealJS"
-description: "HydeSlides : A Monster of a Slide Deck"
-theme: "cobalt"
+title: "Discrete Math You Need to Know"
+description: "Now featuring code samples in Clojure"
+theme: "default"
 chapters: ['overview', 'features']
 ---

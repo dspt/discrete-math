@@ -2,7 +2,7 @@
 <title>{{ page.title }}</title>
 
 <meta name="description" content="{{ page.description }}">
-<meta name="author" content="Jordan McCullough">
+<meta name="author" content="Tim Berglund">
 
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
