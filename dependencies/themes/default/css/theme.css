@@ -46,6 +46,9 @@ body::after {
 .reveal sub {
   font-size: 0.5em; }
 
+.reveal code {
+  color: #b90000; }
+
 /* Optional RevealJS Override for Hyphenation (where supported) */
 /*
 .reveal h1,

@@ -42,6 +42,10 @@ body::after{
   font-size: 0.5em;
 }
 
+.reveal code {
+  color: $color-medium-light;
+}
+
 /* Optional RevealJS Override for Hyphenation (where supported) */
 /*
 .reveal h1,
