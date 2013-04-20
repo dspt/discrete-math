@@ -12,6 +12,9 @@ tags: ['counting']
 </ul>
 
 {% capture notes %}
-
+* Also called "combinatorics"
+* When I've got things and I'm rearranging them or choosing them
+* Good for poker
+* Good for knowing how expensive a problem will be
 {% endcapture %}
 {% include hydeslides/core/notes %}

@@ -43,6 +43,9 @@ body::after {
   padding-bottom: .5em;
   opacity: .4; }
 
+.reveal sub {
+  font-size: 0.5em; }
+
 /* Optional RevealJS Override for Hyphenation (where supported) */
 /*
 .reveal h1,
